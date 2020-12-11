@@ -1,2 +1,2 @@
 # BigDataAnalyticsAssignments
-This repository contains assignment Solutions for Big Data Analytics (METCS777).
+This repository contains assignment solutions for Big Data Analytics (METCS777).

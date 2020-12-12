@@ -1,0 +1,13 @@
+Task 1 Output:
+
+Average TF for "applicant" in Wikipedia: 5.6573498667649845e-06
+Average TF for "and" in Wikipedia: 0.03343681108797148
+Average TF for "attack" in Wikipedia 0.000197226548759146
+Average TF for "protein" in Wikipedia 4.753928044716984e-05
+Average TF for "court" in Wikipedia 0.0003936548624344322 
+
+Average TF for "applicant" in Australian Court: 0.0044491616810928
+Average TF for "and" in Australian Court: 0.020399611297455933
+Average TF for "attack" in Australian Court 3.851080058563264e-05
+Average TF for "protein" in Australian Court 2.9486677193617493e-06
+Average TF for "court" in Australian Court 0.005215688305338147

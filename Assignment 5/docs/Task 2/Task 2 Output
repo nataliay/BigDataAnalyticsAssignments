@@ -1,0 +1,19 @@
+Job Start Time:  03:49:52
+
+Reading training data started at:  03:49:52
+Reading training data ended at:  03:51:04
+
+Training started at:  03:51:04
+Cost stopped decreasing at:  415
+Training ended at:  05:10:55
+
+Reading testing data started at:  05:10:55
+Reading testing data ended at:  05:10:57
+
+Testing started at:  05:10:57
+F1 score:  98.54 %
+Testing ended at:  05:12:43
+
+Job End Time:  05:12:43
+
+Elapsed time:  1 hr 23 min

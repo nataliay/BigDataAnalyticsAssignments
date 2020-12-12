@@ -1,0 +1,20 @@
+Job Start Time:  23:43:39
+
+Reading training data started at:  23:43:39
+Reading training data ended at:  23:45:41
+
+Training started at:  23:45:41
+Training ended at:  00:26:13
+
+Reading testing data started at:  00:26:13
+Reading testing data ended at:  00:26:15
+
+Testing started at:  00:26:15
+F1 score:  99.6 %
+Testing ended at:  01:32:31
+
+Job End Time:  01:32:31
+
+Elapsed time:  1 hr 52 min
+
+

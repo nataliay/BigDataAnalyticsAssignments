@@ -1,0 +1,6 @@
+task 1 output
+
+Top Words in Corpus: [('the', 26451056), ('of', 12507151), ('in', 10807932), ('and', 10758007), ('a', 7988396), ('to', 7681799), ('was', 4588136), ('is', 3746524), ('for', 3145951), ('as', 3066049)]
+
+Word Postions in our Feature Matrix. Last 20 words in 20k positions:  [('yarmouth', 19999), ('ami', 19998), ('ub', 19997), ('divert', 19996), ('csa', 19995), ('unlocked', 19994), ('dent', 19993), ('lockout', 19992), ('misuse', 19991), ('sizeable', 19990), ('overt', 19989), ('aqueous', 19988), ('glamour', 19987), ('minerva', 19986), ('madurai', 19985), ('corbin', 19984), ('estadio', 19983), ('ethnographic', 19982), ('rida', 19981), ('melancholy', 19980)]
+

@@ -1,0 +1,33 @@
+Top Words in Corpus: [Row(words='the', count(words)=26379566), Row(words='of', count(words)=12472066), Row(words='in', count(words)=10782521), Row(words='and', count(words)=10729878), Row(words='a', count(words)=7966514), Row(words='to', count(words)=7661172), Row(words='was', count(words)=4580330), Row(words='is', count(words)=3733368), Row(words='for', count(words)=3136608), Row(words='as', count(words)=3058023)]
+
+Word Postions in our Feature Matrix. Last 20 words in 20k positions:  [Row(words='quarterbacks', dictNum=19999), Row(words='depletion', dictNum=19998), Row(words='losers', dictNum=19997), Row(words='grumman', dictNum=19996), Row(words='shootings', dictNum=19995), Row(words='bump', dictNum=19994), Row(words='batavia', dictNum=19993), Row(words='riparian', dictNum=19992), Row(words='inefficient', dictNum=19991), Row(words='misuse', dictNum=19990), Row(words='discounted', dictNum=19989), Row(words='blackmail', dictNum=19988), Row(words='analysed', dictNum=19987), Row(words='coco', dictNum=19986), Row(words='rumor', dictNum=19985), Row(words='judas', dictNum=19984), Row(words='reappeared', dictNum=19983), Row(words='ub', dictNum=19982), Row(words='christophe', dictNum=19981), Row(words='lute', dictNum=19980)]
+
+
+
++--------+--------------------+
+|     key|          NumpyArray|
++--------+--------------------+
+|10000591|[0.005524862, 0.0...|
+|10007113|[0.02, 0.02, 0.02...|
+|10009278|[0.02173913, 0.02...|
++--------+--------------------+
+only showing top 3 rows
+
+
++--------+--------------------+
+|     key|               TFidf|
++--------+--------------------+
+|10000591|[0.026643403, 0.0...|
+|10007113|[0.09644912, 0.02...|
++--------+--------------------+
+only showing top 2 rows
+
+[Row(category='All_articles_needing_additional_references', count=2), Row(category='Articles_needing_additional_references_from_January_2018', count=2), Row(category='1996_in_basketball', count=1), Row(category='1939_in_basketball', count=1), Row(category='1994_in_basketball', count=1), Row(category='Basketball_stubs', count=1), Row(category='1995_in_basketball', count=1), Row(category='1927_in_basketball', count=1)]
+
+[Row(category='All_Wikipedia_articles_written_in_Australian_English', count=2), Row(category='Use_Australian_English_from_August_2019', count=2), Row(category='Coordinates_on_Wikidata', count=2), Row(category='Articles_with_short_description', count=1), Row(category='Australian_Statistical_Geography_Standard_2016_ID_same_as_Wikidata', count=1), Row(category='City_of_Shellharbour', count=1), Row(category='Use_dmy_dates_from_August_2019', count=1)]
+
+[Row(category='Articles_with_short_description', count=2), Row(category='CS1_Spanish-language_sources_(es)', count=1), Row(category='March', count=1), Row(category='Days_of_the_year', count=1), Row(category='1800_in_science', count=1), Row(category='Wikipedia_indefinitely_move-protected_pages', count=1), Row(category='Wikipedia_pending_changes_protected_pages', count=1), Row(category='1800s_in_science', count=1), Row(category='18th_century_in_science', count=1)]
+
+
+
+
